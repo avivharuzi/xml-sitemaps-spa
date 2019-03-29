@@ -24,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/avivharuzi/xml-sitemaps-spa/issues"
   },
-  "homepage": "https://github.com/avivharuzi/xml-sitemaps-spa#readme"
+  "homepage": "https://github.com/avivharuzi/xml-sitemaps-spa#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "puppeteer": "^1.14.0",
+    "xml-js": "^1.6.11"
+  }
 }
