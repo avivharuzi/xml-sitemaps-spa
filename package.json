@@ -1,0 +1,28 @@
+{
+  "name": "xml-sitemaps-spa",
+  "version": "1.0.0",
+  "description": "Generate easily XML sitemaps focusing on single page applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avivharuzi/xml-sitemaps-spa.git"
+  },
+  "keywords": [
+    "xml",
+    "sitemaps",
+    "spa",
+    "sitemap.xml",
+    "generator",
+    "crawler",
+    "seo"
+  ],
+  "author": "Aviv Haruzi <avivharuzi@gmail.com> (https://www.avivharuzi.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avivharuzi/xml-sitemaps-spa/issues"
+  },
+  "homepage": "https://github.com/avivharuzi/xml-sitemaps-spa#readme"
+}
